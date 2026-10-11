@@ -1,0 +1,23 @@
+# Virtual Environment
+venv/
+env/
+ENV/
+
+# Python Cache & Saved Model
+__pycache__/
+*.py[cod]
+*$py.class
+*.pt
+
+# Frontend build & packages
+frontend/node_modules/
+frontend/dist/
+frontend/.vite/
+
+# Database & Logs
+matcher.db
+*.log
+.DS_Store
+
+# Android Build
+android/
